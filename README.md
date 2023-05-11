@@ -37,7 +37,7 @@ Overall, the page provides a functional and visually appealing implementation of
 
 ## 🖥️ Demo  
 
-![gif-rating](https://github.com/salvedojuliao/page_interactive-rating-component/assets/44206400/530865f3-1676-47c3-ac43-26d2926b74a5)
+![gif-rating](https://github.com/salvedojuliao/page_interactive-rating-component/assets/44206400/0a42280f-134a-4b67-a828-6d52600af16e)
 
 
 ***
