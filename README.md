@@ -43,7 +43,7 @@ Overall, the page provides a functional and visually appealing implementation of
 ***
 
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://jaycesar.github.io/page_interactive-rating-component/"> Interactive Rating Componentt </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/page_interactive-rating-component/"> Interactive Rating Component </a></b>
 
 ***
 
